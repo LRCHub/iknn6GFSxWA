@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "TETORA - 今さらわかるな - Music Video",
+  "base_artist": "TETORA",
+  "createdAt": "2026-03-23T07:39:33.938767Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今さらわかるな",
+      "artist": "TETORA",
+      "has_synced": false,
+      "path": "select/pl_01_今さらわかるな_TETORA.txt"
+    }
+  ]
+}
